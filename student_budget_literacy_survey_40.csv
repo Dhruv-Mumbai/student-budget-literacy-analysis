@@ -1,0 +1,41 @@
+respondent_id,stream,academic_year,gender,term_awareness,understanding_level,primary_info_source,budget_relevance_interest,quiz_score_out_of_10,interviewer_observation
+S01,Commerce,SYBCom,Female,Yes,Correct,Curriculum Textbooks,High,9,Correctly defined Fiscal Deficit & Direct/Indirect Taxes
+S02,Commerce,TYBCom,Male,Yes,Correct,Curriculum Textbooks,High,9,Accurate interpretation of Union Budget & Revenue Receipt
+S03,Commerce,SYBCom,Female,Yes,Correct,Curriculum Textbooks,High,8,Clear grasp of Capital vs Revenue Expenditure
+S04,Commerce,SYBCom,Male,Yes,Correct,Financial News Portals,High,9,Tracks Union Budget announcements and tax slabs
+S05,Commerce,TYBCom,Female,Yes,Correct,Curriculum Textbooks,High,8,Strong understanding of Fiscal Deficit and GDP growth
+S06,Commerce,TYBCom,Male,Yes,Correct,Curriculum Textbooks,Medium,8,"Understands GST slabs, tax rebates, and deficit financing"
+S07,Commerce,SYBCom,Female,Yes,Correct,Financial News Portals,High,9,Accurately explained disinvestment and budget estimates
+S08,Commerce,SYBCom,Male,Yes,Correct,Curriculum Textbooks,Medium,8,Good command of inflation targeting and personal tax slabs
+S09,Commerce,TYBCom,Female,Yes,Correct,Curriculum Textbooks,High,9,Correctly differentiated Monetary vs Fiscal policy
+S10,Commerce,FYBCom,Male,Yes,Partial/Confused,Curriculum Textbooks,Medium,6,Familiar with terms but confused Fiscal vs Revenue Deficit
+S11,Commerce,SYBCom,Female,Yes,Partial/Confused,Family Discussions,Medium,5,Knows income tax slabs but unsure about Capital Expenditure
+S12,Commerce,SYBCom,Male,Yes,Partial/Confused,Social Media,Medium,5,Heard of Union Budget terms but struggled with technical jargon
+S13,Commerce,FYBCom,Female,Yes,Partial/Confused,Curriculum Textbooks,Medium,6,Partial grasp of Direct vs Indirect taxation
+S14,Commerce,TYBCom,Male,Yes,Partial/Confused,Financial News Portals,Medium,6,Understands personal budgeting but confused macro fiscal terms
+S15,Commerce,SYBCom,Female,Yes,Partial/Confused,Family Discussions,Low,4,Recognizes GST and Income Tax but unclear on deficit metrics
+S16,Commerce,FYBCom,Male,Yes,Partial/Confused,Curriculum Textbooks,Medium,5,Basic textbook recall without practical interpretation
+S17,Commerce,SYBCom,Female,Yes,Partial/Confused,Social Media,Medium,5,Follows budget reels/summaries but mixes up policy definitions
+S18,Commerce,SYBCom,Male,Yes,Partial/Confused,Curriculum Textbooks,Medium,6,Understands tax exemptions but unsure of fiscal deficit impact
+S19,Commerce,FYBCom,Female,No,No Knowledge,Family Discussions,Low,2,Unable to define core Union Budget or fiscal terms
+S20,Commerce,FYBCom,Male,No,No Knowledge,Social Media,Low,2,Does not follow budget announcements or financial terminology
+S21,Computer Science,TYBSc CS,Male,Yes,Correct,Financial News Portals,High,8,Actively tracks equity markets and Union Budget tax policies
+S22,Computer Science,SYBSc CS,Female,Yes,Partial/Confused,Social Media,Medium,5,Heard of Income Tax slabs via YouTube/Instagram explainers
+S23,Computer Science,SYBSc CS,Male,Yes,Partial/Confused,Family Discussions,Medium,4,Knows basic GST & savings terms from parents; macro terms unclear
+S24,Computer Science,TYBSc CS,Female,Yes,Partial/Confused,Social Media,Medium,5,Aware of tax rebate headlines but confused by Fiscal Deficit
+S25,Computer Science,SYBSc CS,Male,Yes,Partial/Confused,Social Media,Low,4,Recognizes budget buzzwords without conceptual clarity
+S26,Computer Science,FYBSc CS,Female,Yes,Partial/Confused,Family Discussions,Medium,4,"Familiar with household budgeting only, not national fiscal terms"
+S27,Computer Science,TYBSc CS,Male,Yes,Partial/Confused,Social Media,Medium,5,Knows digital payment/tax rules; struggles with budgetary jargon
+S28,Computer Science,SYBSc CS,Female,Yes,Partial/Confused,Family Discussions,Low,4,Partial awareness of tax exemptions; no formal finance exposure
+S29,Computer Science,SYBSc CS,Male,Yes,Partial/Confused,Social Media,Medium,5,Reads short news snippets; confuses revenue vs capital budget
+S30,Computer Science,FYBSc CS,Female,No,No Knowledge,Social Media,Low,2,No academic exposure to accounting or budgetary terminology
+S31,Computer Science,FYBSc CS,Male,No,No Knowledge,Social Media,Low,1,Unfamiliar with Union Budget concepts and fiscal indicators
+S32,Computer Science,SYBSc CS,Female,No,No Knowledge,Family Discussions,Low,2,Finds financial jargon intimidating; relies on family
+S33,Computer Science,SYBSc CS,Male,No,No Knowledge,Social Media,Low,2,"No knowledge of fiscal deficit, tax slabs, or budget allocation"
+S34,Computer Science,TYBSc CS,Female,No,No Knowledge,Social Media,Low,2,Never studied commerce/economics; unaware of budget terms
+S35,Computer Science,FYBSc CS,Male,No,No Knowledge,Family Discussions,Low,1,No awareness of macroeconomic or personal taxation terms
+S36,Computer Science,SYBSc CS,Female,No,No Knowledge,Social Media,Low,2,Skips financial news due to complex terminology
+S37,Computer Science,TYBSc CS,Male,No,No Knowledge,Social Media,Low,2,Unaware of Union Budget structure and fiscal deficit meaning
+S38,Computer Science,FYBSc CS,Female,No,No Knowledge,Family Discussions,Low,1,No prior exposure to budget or taxation concepts
+S39,Computer Science,SYBSc CS,Male,No,No Knowledge,Social Media,Low,2,Could not identify core budgetary or fiscal terms
+S40,Computer Science,SYBSc CS,Female,No,No Knowledge,Social Media,Low,2,Lacks foundational financial literacy resources
